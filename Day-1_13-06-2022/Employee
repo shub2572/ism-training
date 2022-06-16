@@ -1,0 +1,10 @@
+class Employee{
+
+   public static void main(String args[]){
+   
+      int salary,tax;
+	  String members,employee name;
+    
+   }
+
+}
